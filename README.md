@@ -22,4 +22,4 @@ class Paul:
     <img alt="Coding stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Paul&api_domain=wakapi.bayfield.dev&bg_color=f6f8fa&title_color=1f2328&text_color=1f2328&custom_title=Coding%20Stats&langs_count=10&hide=unknown&hide_progress=true" style="width: 100%">
 </picture>  
   
-*depuis décembre 2024*
+*since december 2024*
